@@ -63,6 +63,8 @@ STEP 5:Include Necessary parameters in each functions.
 
 <img width="1237" height="742" alt="image" src="https://github.com/user-attachments/assets/bda17885-b7e2-4eec-9278-796058a9fdcf" />
 
+<img width="717" height="472" alt="image" src="https://github.com/user-attachments/assets/c8cd14f9-3a37-4a89-9979-06f59e3a6953" />
+
 # Result:
 
 Thus the data visualization was peformed using matplot python library for the given datas successfully
